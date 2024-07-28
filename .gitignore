@@ -1,2 +1,4 @@
 models/lora/*
 models/Realistic-LCM-LoRA/*
+.DS_Store/*
+__pycache__/*

@@ -1,0 +1,59 @@
+{
+    "character": [
+        {
+            "id": "character_1",
+            "name": "Kamado Nezuko",
+            "trigger": [
+                "kamado nezuko",
+                "black hair",
+                "pink eyes",
+                "forehead"
+            ],
+            "url": "https://civitai.com/models/20346/nezuko-demon-slayer-kimetsu-no-yaiba-lora?modelVersionId=24191"
+        },
+        {
+            "id": "character_2",
+            "name": "Texas the Omertosa in Arknights",
+            "trigger": [
+                "omertosa",
+                "1girl",
+                "wolf ears",
+                "long hair"
+            ],
+            "url": "https://civitai.com/models/6779/arknights-texas-the-omertosa?modelVersionId=7974"
+        },
+        {
+            "id": "character_3",
+            "name": "Son Goku",
+            "trigger": [
+                "son goku",
+                "spiked hair",
+                "muscular male",
+                "wristband"
+            ],
+            "url": "https://civitai.com/models/18279/son-goku-dragon-ball-all-series-lora?modelVersionId=21654"
+        }
+    ],
+    "background": [
+        {
+            "id": "background_1",
+            "name": "Bamboolight Background",
+            "trigger": [
+                "bamboolight",
+                "outdoors",
+                "bamboo"
+            ],
+            "url": "https://civitai.com/models/113381/lora-bamboolight-concept-with-dropout-and-noise-version?modelVersionId=122477"
+        },
+        {
+            "id": "background_2",
+            "name": "Auroral Background",
+            "trigger": [
+                "auroral",
+                "starry sky",
+                "outdoors"
+            ],
+            "url": "https://civitai.com/models/85026?modelVersionId=156828"
+        }
+    ]
+}
